@@ -2,8 +2,9 @@
 <img src=https://github.com/user-attachments/assets/1e9245e8-ffcf-4492-bf14-38f3c738a874 />
 </p>
 
-<h1>This lab will go over the steps required to setup a fresh install of osTicket, which is a free, open source ticketing system.</h1>
-<br />
+<h1>Setting up osTicket</h1>
+This lab will review the steps required to set up a fresh install of osTicket, a free, open-source ticketing system.
+<br/>
 
 
 <h2>Environments and Technologies Used</h2>
