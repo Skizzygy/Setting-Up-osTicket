@@ -34,7 +34,7 @@ Install and enable IIS with CGI. You can do so by following these steps:<br/>
   - Click 'Uninstall a Program' <br/>
   <img src=https://github.com/user-attachments/assets/3ed28a2f-0b32-4a29-abe0-818724d0a398 />
   
-  - Click 'Turn Windows featires on or off' on the sidebar <br/>
+  - Click 'Turn Windows features on or off' on the sidebar <br/>
   <img src=https://github.com/user-attachments/assets/034bd85f-d0d3-4fab-9f0b-ea1ae623adf6 />
 
   -  Scroll until you see Internet Information Services. Then, click on the box and open the folder, open 'World Wide Web Services', then 'Application Development Features', and finally click on the box for 'CGI', then hit OK. <br/>
@@ -43,7 +43,7 @@ Install and enable IIS with CGI. You can do so by following these steps:<br/>
 <br/>
 
 <p align="center">
-Once installed, open the osTicket Installation File that you extracted, and install 'PHPManagerforIIS'. <br/>
+Once installed, open the osTicket Installation File you extracted, and install 'PHPManagerforIIS'. <br/>
 <img src=https://github.com/user-attachments/assets/88a81bb9-ac38-4a73-8f65-15f0b9fd39ee />
 <br/>
 <br/>
@@ -108,7 +108,7 @@ On the right sidebar, click on 'Browse *:80 (http) <br/>
 <img src=https://github.com/user-attachments/assets/ce82c182-3dc6-464b-b52c-95f03747a2df />
 <br/>
 <br/>
-It should show some recommended features being disabled. From here, reopen the IIS window, naviagte back to the osTicket folder in the IIS window, open the PHP Manager, and click 'enable or disable an extension'. <br/>
+It should show some recommended features being disabled. From here, reopen the IIS window, navigate back to the osTicket folder in the IIS window, open the PHP Manager, and click 'enable or disable an extension'. <br/>
 <img src=https://github.com/user-attachments/assets/a5e3feda-cb94-494f-936d-4f547ac8ecc5 />
 <br/>
 <br/>
@@ -126,7 +126,7 @@ Go back to the browser and click Continue a the bottom of the window. <br/>
 <img src=https://github.com/user-attachments/assets/1583fc28-38fc-4580-9cb6-3ddf0162aeb5 />
 <br/>
 <br/>
-Fill in the boxes with the information you need to put in. At the bottom for Database Settings, for the MySQL Database, enter osTicket. Username can be anything you'd like, and Password will be the password you set whenever you installed 'mysql-5.5.62-win32.msi', then click install at the bottom of the screen. <br/>
+Fill in the boxes with the information you need to put in. At the bottom for Database Settings, for the MySQL Database, enter osTicket. The username can be anything you'd like, and the password will be the password you set whenever you installed 'mysql-5.5.62-win32.msi', then click install at the bottom of the screen. <br/>
 <img src=https://github.com/user-attachments/assets/3610fddc-6e18-45a0-941c-49c77dc7a3e6 />
 <br/>
 <br/>
@@ -134,7 +134,7 @@ Back in the osTicket install folder, install 'HeidiSQL'. <br/>
 <img src=https://github.com/user-attachments/assets/b7c6d71a-5da9-4178-90fc-b39d5331fa0e />
 <br/>
 <br/>
-Open HeidiSQL once installed, open a New session, using the same username and password that you setup before during the osTicket setup in the broswer. If there isn;t a database named 'osTicket', make one now. <br/>
+Open HeidiSQL once installed, open a New session, using the same username and password that you setup before during the osTicket setup in the browser. If there isn;t a database named 'osTicket', make one now. <br/>
 <img src=https://github.com/user-attachments/assets/ec15f4ab-c18f-4320-88c2-36c10f289fb3 />
 <br/>
 <br/>
