@@ -20,6 +20,7 @@
 
 <p align="center">
 First, download the required files for osTicket, which you can find here:
+
   
 
 
