@@ -19,7 +19,8 @@
 <h2>Deployment and Configuration Steps</h2>
 
 <p align="center">
-First, download the required files for osTicket, which you can find 
-  [here](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
+First, download the required files for osTicket, which you can find here:
+  
+
 
 
